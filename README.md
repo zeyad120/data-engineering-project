@@ -16,6 +16,9 @@ This project builds a data pipeline using Airflow, Spark, HDFS, and Snowflake.
 3. Process using Spark
 4. Load into Snowflake
 
+## 👨‍💻 Author
+Zeyad Elmogy
+
 ## ▶️ How to Run
 ```bash
 docker compose up
